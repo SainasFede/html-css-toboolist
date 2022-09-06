@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  background-color: rgba(246,248,249,255);
+}
 
 header{
   background-color: white;
@@ -17,4 +20,28 @@ header{
 
 .header-logo{
   font-size: 40px;
+}
+
+.container{
+background-color: rgb(134, 11, 11);
+width: 50%;
+margin: 0 auto;
+height: 50px;
+}
+
+.Add{
+  font-size: 20px;
+}
+
+#Addtask{
+  color: white;
+  background-color: blue;
+  width: 30px;
+  height: 30px;
+}
+
+.centrale{
+  width: 50%;
+  height: 50px;
+  background-color: white;
 }
